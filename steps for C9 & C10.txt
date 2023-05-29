@@ -1,0 +1,14 @@
+steps : 
+1) install add on ublock origin (or uBlock) to Mozilla browser.
+2) Go to dashboard of ublock origin and choose preferences.
+3)open mozilla forefox browser, Go to settings, then go to privacy & security.
+4) to keep you information safe & secure with firefox's private browsing,password features and other security settings, configure the following preferences;
+  a)HTTPs-only mode in Firefox.
+  b) Does Firefox share my location with websites?
+  c)manage your camera and microphone permissions with Firefox.
+  d)SmartBlock for Enhanced Tracking protection.
+  e) Enhanced Training tracking Protection & Total Cookie Protection in Firefox.
+  f)Site Information panel.
+  g) Autofill logins on Firefox.
+  h)telemetry collection and deletion.
+  i)Automatically fill in credit card data on web forms.
